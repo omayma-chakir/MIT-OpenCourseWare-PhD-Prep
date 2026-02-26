@@ -17,7 +17,7 @@ I followed this logical progression to build up from foundational math to advanc
 
 3. **Advanced Calculus for Engineers** — *18.075 | Fall 2004 | Graduate | Dr. Dionisios Margetis & Prof. John W. M. Bush*
 
-4. **Advanced Partial Differential Equations with Applications** — *18.306 | Graduate* *(Instructor/Term pending)*
+4. **Advanced Partial Differential Equations with Applications** — *18.306 | Graduate* |*Prof. Rodolfo Rosales*
 
 5. **Differential Analysis II: Partial Differential Equations and Fourier Analysis** — *18.156 | Spring 2016 | Graduate | Prof. Lawrence D Guth*
 
